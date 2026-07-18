@@ -1,0 +1,18 @@
+{
+  "files.exclude": {
+    "**/.git": true,
+    "**/.pnpm-store": true,
+    "**/node_modules": true,
+    "**/.vinext": true,
+    "**/.wrangler": true,
+    "**/dist": true,
+    ".openai": true,
+    "build": true,
+    "worker": true,
+    "db": true,
+    "drizzle": true,
+    "examples": true,
+    "tests": true,
+    ".vscode": true
+  }
+}
