@@ -55,7 +55,7 @@ export default function Home() {
       <section className="benefits section shell" id="beneficios"><div className="benefit-panel"><div><div className="eyebrow"><i/> ¿Por qué Bly?</div><h2>Tu PC merece<br/><em>sentirse nueva.</em></h2><p>No aplico una receta genérica. Cada equipo se revisa y configura según su hardware, su uso y tus prioridades.</p></div><div className="benefit-list"><div><b>01</b><span><strong>Transparencia total</strong><small>Sabes qué se cambia y por qué.</small></span></div><div><b>02</b><span><strong>Optimización a medida</strong><small>Trabajo, estudio, diseño o gaming.</small></span></div><div><b>03</b><span><strong>Sin programas innecesarios</strong><small>Solo herramientas seguras y útiles.</small></span></div></div></div></section>
 
       <section className="cta shell" id="contacto"><div><div className="eyebrow light"><i/> Empecemos</div><h2>¿Listo para recuperar<br/>el rendimiento de tu PC?</h2><p>Cuéntame qué problema tiene tu equipo y recibe una evaluación inicial.</p></div><a className="button button-white" href="https://wa.me/50672753409?text=Hola%20Bly%20Optimizer%2C%20quiero%20mejorar%20el%20rendimiento%20de%20mi%20PC" target="_blank" rel="noreferrer" aria-label="Contactar a Bly Optimizer por WhatsApp al 7275 3409">Hablar por WhatsApp <span>↗</span></a></section>
-      <footer className="footer shell"><a className="brand" href="#inicio"><span>B</span>BLY <b>OPTIMIZER</b></a><p>Rendimiento real. Sin complicaciones.</p><small>© 2026 Bly Optimizer</small></footer>
+      <footer className="footer shell"><a className="brand" href="#inicio">BLY <b>OPTIMIZER</b></a><p>Rendimiento real. Sin complicaciones.</p><small>© 2026 Bly Optimizer</small></footer>
     </main>
   );
 }
