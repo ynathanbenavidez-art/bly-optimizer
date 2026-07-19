@@ -15,7 +15,7 @@ export default function Home() {
   return (
     <main>
       <nav className="nav shell" aria-label="Navegación principal">
-        <a className="brand" href="#inicio" aria-label="Bly Optimizer, inicio"><span>B</span>BLY <b>OPTIMIZER</b></a>
+        <a className="brand" href="#inicio" aria-label="Bly Optimizer, inicio">BLY <b>OPTIMIZER</b></a>
         <div className="navlinks"><a href="#servicios">Servicios</a><a href="#proceso">Proceso</a><a href="#beneficios">Beneficios</a></div>
         <a className="button button-small" href="#contacto">Solicitar diagnóstico <span>↗</span></a>
       </nav>
